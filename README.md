@@ -82,4 +82,4 @@ Data integrity is maintained through PostgreSQL RLS:
 This project is for educational purposes. Feel free to use and modify it for your own institutional needs.
 
 ---
-*Created with ❤️ for smarter classrooms.*
+*Created by Roger for smarter classrooms.*
